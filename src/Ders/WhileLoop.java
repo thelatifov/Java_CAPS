@@ -1,0 +1,12 @@
+package Ders;
+
+public class WhileLoop {
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 10;
+        while (a < b) {
+            a++;
+            System.out.println("a = " + a);
+        }
+    }
+}
