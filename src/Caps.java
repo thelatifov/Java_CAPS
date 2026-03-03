@@ -1,5 +1,5 @@
 public class Caps {
     static void main() {
-        System.out.println("Ruslan");
+        System.out.println("Ruslannnnnn");
     }
 }
